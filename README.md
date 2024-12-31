@@ -1,1 +1,1 @@
-# -Academic-Affairs-Management-System-
+# Academic-Affairs-Management-System
